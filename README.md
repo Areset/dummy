@@ -94,27 +94,27 @@
       - PresentQRScannerAndResult (file)
         - PresentQRScannerAndResult view presentation
 
-ReusableView
-LoderView
-Loader view presentation
-Helper
-API
-This file contains api urls
-Extension
-This file contains multiple extensions
-Enum
-MyFont
-This file contains font enums
-Utills
-Font
-This folder contains custom fonts
-countryCodes 
-This file contains country json codes 
-globalVariables
-This file contains few global informations
-Localizable
-Localized strings
+- ReusableView
+  - LoderView
+    - Loader view presentation
+- Helper
+  - API
+    - This file contains api urls
+  - Extension
+    - This file contains multiple extensions
+  - Enum
+    - MyFont
+  - This file contains font enums
+  - Utills
+    - Font
+      - This folder contains custom fonts
+    - countryCodes 
+      - This file contains country json codes 
+    - globalVariables
+      - This file contains few global informations
+  - Localizable
+    - Localized strings
 
-CheckAppUpdate
-This file will check for app updates
+- CheckAppUpdate
+  - This file will check for app updates
 
